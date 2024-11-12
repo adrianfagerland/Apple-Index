@@ -33,9 +33,3 @@ def store_prices_in_db(products):
         data = {"name": product["name"], "price": product["price"]}
         supabase.table("apple_prices").insert(data).execute()
         logger.info(f"Inserted product {product['name']} into database")
-
-
-if __name__ == "__main__":
-    products = scrape_apple_prices()
-    store_prices_in_db(products)
-    logger.info("Scraping and storing process completed")

@@ -32,11 +32,23 @@ Apple-Index is a website that tracks Apple product prices across different regio
      SUPABASE_KEY=<your-supabase-key>
      ```
 
-4. Run the backend service:
+4. Deploy the backend service to AWS Lambda:
+   - Create an AWS account if you don't have one.
+   - Install the AWS CLI and configure it with your credentials.
+   - Package the backend code and dependencies:
 
-   ```bash
-   python backend/main.py
-   ```
+     ```bash
+     cd backend
+     pip install -r requirements.txt -t .
+     zip -r9 ../deployment-package.zip .
+     ```
+
+   - Create a Lambda function in the AWS Management Console and upload the deployment package.
+   - Set the handler to `lambda_function.lambda_handler`.
+
+5. Set up CloudWatch to trigger the Lambda function:
+   - Go to the CloudWatch console.
+   - Create a new rule to trigger the Lambda function once a day.
 
 ### Frontend
 
@@ -56,22 +68,6 @@ Apple-Index is a website that tracks Apple product prices across different regio
 
    ```bash
    npm run dev
-   ```
-
-## Running the Scraper
-
-The scraper is scheduled to run once a day automatically. However, you can also run it manually:
-
-1. Activate the virtual environment:
-
-   ```bash
-   source venv/bin/activate
-   ```
-
-2. Run the scraper:
-
-   ```bash
-   python backend/scraper.py
    ```
 
 ## Accessing the Frontend Application
