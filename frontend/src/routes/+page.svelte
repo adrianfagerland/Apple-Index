@@ -72,10 +72,7 @@
 		name="description"
 		content="Compare Apple product prices across different countries. This website is kind of like what The Mac Index used to be."
 	/>
-	<meta
-		name="apple-mobile-web-app-title"
-		content="Compare Apple product prices across different countries. This website is kind of like what The Mac Index used to be."
-	/>
+	<meta name="apple-mobile-web-app-title" content="Apple Index" />
 </svelte:head>
 
 <main class="container mx-auto py-8">
