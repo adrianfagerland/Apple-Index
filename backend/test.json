@@ -1,0 +1,431 @@
+{
+    "sections": [
+        {
+            "stepCount": "Step 1",
+            "id": "Item1",
+            "formFieldName": "dimensionColor",
+            "dimensionImageRequired": true,
+            "controller": "as.ColorSelectionController",
+            "header": "Color",
+            "selectedText": "Selected",
+            "subHeader": null,
+            "headerNoJS": false,
+            "footer": null,
+            "combinedDimension": null,
+            "showBadges": null,
+            "decisionSupportTile": {
+                "items": [],
+                "size": 0
+            },
+            "modelMessage": "Choose your model",
+            "filter": {
+                "dimensionColor": null
+            }
+        }
+    ],
+    "displayValues": {
+        "dimensionColor": {
+            "title": {
+                "singleVariantDisplayTitle": "Color:",
+                "multiVariantsDisplayTitle": "Choose a color:"
+            },
+            "blue": {
+                "value": "Blue",
+                "image": "<em class=\"click-layer\"></em> <div class=\"effect black\"><img src=\"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-pdp-dimensioncolor-two-tone-blue?wid=29&amp;hei=29&amp;fmt=png-alpha&amp;.v=1723504682037\" alt=\"Two-tone, medium and light tone of Blue\" width=\"29\" height=\"29\" class=\"ir\" /></div>"
+            },
+            "purple": {
+                "value": "Purple",
+                "image": "<em class=\"click-layer\"></em> <div class=\"effect black\"><img src=\"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-pdp-dimensioncolor-two-tone-purple?wid=29&amp;hei=29&amp;fmt=png-alpha&amp;.v=1723504682033\" alt=\"Two-tone, light and medium tone of Purple\" width=\"29\" height=\"29\" class=\"ir\" /></div>"
+            },
+            "midnight": {
+                "value": "Midnight",
+                "image": "<em class=\"click-layer\"></em> <div class=\"effect black\"><img src=\"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-pdp-dimensioncolor-two-tone-midnight?wid=29&amp;hei=29&amp;fmt=png-alpha&amp;.v=1723504682032\" alt=\"Two-tone, dark and medium-dark tone of Midnight\" width=\"29\" height=\"29\" class=\"ir\" /></div>"
+            },
+            "starlight": {
+                "value": "Starlight",
+                "image": "<em class=\"click-layer\"></em> <div class=\"effect black\"><img src=\"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-pdp-dimensioncolor-two-tone-starlight?wid=29&amp;hei=29&amp;fmt=png-alpha&amp;.v=1723504682116\" alt=\"Two-tone, light and medium tone of Starlight\" width=\"29\" height=\"29\" class=\"ir\" /></div>"
+            },
+            "orange": {
+                "value": "Orange",
+                "image": "<em class=\"click-layer\"></em> <div class=\"effect black\"><img src=\"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-pdp-dimensioncolor-two-tone-orange?wid=29&amp;hei=29&amp;fmt=png-alpha&amp;.v=1723504682032\" alt=\"Two-tone, light and medium tone of Orange\" width=\"29\" height=\"29\" class=\"ir\" /></div>"
+            },
+            "variantOrder": [
+                "blue",
+                "purple",
+                "midnight",
+                "starlight",
+                "orange"
+            ],
+            "variantSortOrder": [
+                "196",
+                "197",
+                "210",
+                "214",
+                "215"
+            ]
+        },
+        "prices": {
+            "549_00_fp": {
+                "priceFeeDisclaimer": "",
+                "creditOffer": {
+                    "creditAccountOffer": "<span>$91.50 \n    <span aria-hidden=\"true\">/mo.</span> \n    <span class=\"visuallyhidden\">per month</span> \n    <span class=\"nowrap acinstallment-term-length\"> for 6 \n        <span aria-hidden=\"true\">mo.</span> \n        <span class=\"visuallyhidden\">months</span> \n    </span> \n    <span> <span class=\"visuallyhidden\">Footnote </span>* \n    </span> \n    <span class=\"as-price-acinstallmentterms\"> or $549.00</span> \n</span>",
+                    "creditOfferVars": {
+                        "apr": 0,
+                        "amount": 549.00,
+                        "netAmount": 549.00,
+                        "installment": 91.50,
+                        "link": "http://www.apple.com/shop/acmi",
+                        "term": 6,
+                        "amountPerTerm": 91.50
+                    },
+                    "showMoreInfoLink": true,
+                    "financingDisabledForRefurbs": false,
+                    "appleCardMessagingEnabled": false,
+                    "financingEnabledforProducts": false,
+                    "watchProduct": false,
+                    "financingDisabledforContractiPhones": false,
+                    "financingDisabledforiPods": false,
+                    "macProduct": false
+                },
+                "priceCurrency": "USD",
+                "partNumber": "MWW73AM/A",
+                "showItemPropPrice": true,
+                "showItemPropAvailability": false,
+                "showPromoAsIncludes": false,
+                "showPayPal": false,
+                "showDynamicFinancing": true,
+                "chooseDefaultPurchaseOption": false,
+                "basePartNumber": "MWW73",
+                "refurbProduct": false,
+                "currentPrice": {
+                    "amount": "$549.00",
+                    "raw_amount": "549.00"
+                },
+                "adjustedPrice": {},
+                "acmiPrice": " <span class=\"nowrap\"> or $91.50<span aria-hidden=\"true\">/mo. </span><span class=\"visuallyhidden\">&nbsp;per month</span></span> <span class=\"nowrap\"><span class=\"acinstallment-term-length\"> for 6 <span aria-hidden=\"true\">mo.</span><span class=\"visuallyhidden\">&nbsp;months</span></span><span class=\"visuallyhidden\">&nbsp;Footnote&nbsp;</span>*</span>",
+                "acmiPrice-short": " <span class=\"nowrap\"> or <span class=\"price-point-acinstallment\">$91.50<span aria-hidden=\"true\">/mo.</span><span class=\"visuallyhidden\"> per month</span></span></span> <span class=\"nowrap acinstallment-term-length\"> for 6 <span aria-hidden=\"true\">mo.</span><span class=\"visuallyhidden\">months</span><span class=\"visuallyhidden\">Footnote </span>*</span></span>",
+                "priceMessageForStep1": " <span class=\"nowrap\"> or $91.50<span aria-hidden=\"true\">/mo. </span><span class=\"visuallyhidden\">&nbsp;per month</span></span> <span class=\"nowrap\"><span class=\"acinstallment-term-length\"> for 6 <span aria-hidden=\"true\">mo.</span><span class=\"visuallyhidden\">&nbsp;months</span></span><span class=\"visuallyhidden\">&nbsp;Footnote&nbsp;</span>*</span>",
+                "comparativeDisplayPrice": "From <span class=\"nowrap\">$549</span>",
+                "comparativeDisplayPrice-short": "<span class=\"price-point-acinstallment\"></span> <span class=\"nowrap\">$549</span>",
+                "currentDisplayPrice": "From <span class=\"nowrap\">$549.00</span>",
+                "currentDisplayPrice-short": "<span class=\"nowrap\">$549.00</span>"
+            }
+        },
+        "shipping": {
+            "shipLabel": "",
+            "checkAvailabilityMessage": ""
+        },
+        "carrierPolicyPart": {},
+        "carrierPolicyType": {},
+        "carrierPromotion": {}
+    },
+    "products": [
+        {
+            "dimensionColor": "blue",
+            "partNumber": "MWW63AM/A",
+            "familyType": "airpodsmax",
+            "productLocatorFamily": "airpodsmax",
+            "basePartNumber": "MWW63",
+            "seoUrlToken": "blue",
+            "part": "AIRPODSMAX_USB_C",
+            "displayShippingQuote": "",
+            "isPromotionEnabled": "false",
+            "dimensionSteporder": 10,
+            "imageKey": "airpods-max-select-202409-blue_FV1",
+            "fullPrice": "549_00_fp",
+            "isCarrierDevice": false,
+            "isComingSoon": false,
+            "isGetReady": false,
+            "productTextViolators": {
+                "items": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "attributeValue": "freeengraving",
+                            "violatorTranslatedText": "Free Engraving",
+                            "stylingOverride": null,
+                            "link": null,
+                            "violatorAccessibilityText": null
+                        },
+                        "even": true,
+                        "first": true,
+                        "last": true,
+                        "position": 1
+                    }
+                ],
+                "size": 1
+            },
+            "footNotes": {
+                "carrierModel": ""
+            },
+            "carrierPromotionEnabled": false,
+            "carrierpromotion": false
+        },
+        {
+            "dimensionColor": "purple",
+            "partNumber": "MWW83AM/A",
+            "familyType": "airpodsmax",
+            "productLocatorFamily": "airpodsmax",
+            "basePartNumber": "MWW83",
+            "seoUrlToken": "purple",
+            "part": "AIRPODSMAX_USB_C",
+            "displayShippingQuote": "",
+            "isPromotionEnabled": "false",
+            "dimensionSteporder": 11,
+            "imageKey": "airpods-max-select-202409-purple_FV1",
+            "fullPrice": "549_00_fp",
+            "isCarrierDevice": false,
+            "isComingSoon": false,
+            "isGetReady": false,
+            "productTextViolators": {
+                "items": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "attributeValue": "freeengraving",
+                            "violatorTranslatedText": "Free Engraving",
+                            "stylingOverride": null,
+                            "link": null,
+                            "violatorAccessibilityText": null
+                        },
+                        "even": true,
+                        "first": true,
+                        "last": true,
+                        "position": 1
+                    }
+                ],
+                "size": 1
+            },
+            "footNotes": {
+                "carrierModel": ""
+            },
+            "carrierPromotionEnabled": false,
+            "carrierpromotion": false
+        },
+        {
+            "dimensionColor": "midnight",
+            "partNumber": "MWW43AM/A",
+            "familyType": "airpodsmax",
+            "productLocatorFamily": "airpodsmax",
+            "basePartNumber": "MWW43",
+            "seoUrlToken": "midnight",
+            "part": "AIRPODSMAX_USB_C",
+            "displayShippingQuote": "",
+            "isPromotionEnabled": "false",
+            "dimensionSteporder": 12,
+            "imageKey": "airpods-max-select-202409-midnight_FV1",
+            "fullPrice": "549_00_fp",
+            "isCarrierDevice": false,
+            "isComingSoon": false,
+            "isGetReady": false,
+            "productTextViolators": {
+                "items": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "attributeValue": "freeengraving",
+                            "violatorTranslatedText": "Free Engraving",
+                            "stylingOverride": null,
+                            "link": null,
+                            "violatorAccessibilityText": null
+                        },
+                        "even": true,
+                        "first": true,
+                        "last": true,
+                        "position": 1
+                    }
+                ],
+                "size": 1
+            },
+            "footNotes": {
+                "carrierModel": ""
+            },
+            "carrierPromotionEnabled": false,
+            "carrierpromotion": false
+        },
+        {
+            "dimensionColor": "starlight",
+            "partNumber": "MWW53AM/A",
+            "familyType": "airpodsmax",
+            "productLocatorFamily": "airpodsmax",
+            "basePartNumber": "MWW53",
+            "seoUrlToken": "starlight",
+            "part": "AIRPODSMAX_USB_C",
+            "displayShippingQuote": "",
+            "isPromotionEnabled": "false",
+            "dimensionSteporder": 13,
+            "imageKey": "airpods-max-select-202409-starlight_FV1",
+            "fullPrice": "549_00_fp",
+            "isCarrierDevice": false,
+            "isComingSoon": false,
+            "isGetReady": false,
+            "productTextViolators": {
+                "items": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "attributeValue": "freeengraving",
+                            "violatorTranslatedText": "Free Engraving",
+                            "stylingOverride": null,
+                            "link": null,
+                            "violatorAccessibilityText": null
+                        },
+                        "even": true,
+                        "first": true,
+                        "last": true,
+                        "position": 1
+                    }
+                ],
+                "size": 1
+            },
+            "footNotes": {
+                "carrierModel": ""
+            },
+            "carrierPromotionEnabled": false,
+            "carrierpromotion": false
+        },
+        {
+            "dimensionColor": "orange",
+            "partNumber": "MWW73AM/A",
+            "familyType": "airpodsmax",
+            "productLocatorFamily": "airpodsmax",
+            "basePartNumber": "MWW73",
+            "seoUrlToken": "orange",
+            "part": "AIRPODSMAX_USB_C",
+            "displayShippingQuote": "",
+            "isPromotionEnabled": "false",
+            "dimensionSteporder": 14,
+            "imageKey": "airpods-max-select-202409-orange_FV1",
+            "fullPrice": "549_00_fp",
+            "isCarrierDevice": false,
+            "isComingSoon": false,
+            "isGetReady": false,
+            "productTextViolators": {
+                "items": [
+                    {
+                        "index": 0,
+                        "value": {
+                            "attributeValue": "freeengraving",
+                            "violatorTranslatedText": "Free Engraving",
+                            "stylingOverride": null,
+                            "link": null,
+                            "violatorAccessibilityText": null
+                        },
+                        "even": true,
+                        "first": true,
+                        "last": true,
+                        "position": 1
+                    }
+                ],
+                "size": 1
+            },
+            "footNotes": {
+                "carrierModel": ""
+            },
+            "carrierPromotionEnabled": false,
+            "carrierpromotion": false
+        }
+    ],
+    "priceDisplayOrder": {
+        "short": [
+            "fullPrice-short",
+            "acmiPrice-short"
+        ],
+        "full": [
+            "fullPrice",
+            "acmiPrice"
+        ]
+    },
+    "priceMessageFallback": {},
+    "imageDictionary": {
+        "airpods-max-select-202409-midnight_FV1": {
+            "scaleFactor": "DEFAULT",
+            "srcSet": {
+                "src": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-202409-midnight_FV1?wid=488&hei=458&fmt=jpeg&qlt=95&.v=1724927052268",
+                "scaleParams2": "wid=976&hei=916&fmt=jpeg&qlt=90&.v=1724927052268"
+            },
+            "attrs": "",
+            "alt": "AirPods Max in Midnight, over-ear headphones, aluminium ear cups, ear cushions, telescoping arms connect the cups and headband",
+            "width": "488",
+            "height": "458",
+            "imageName": "airpods-max-select-202409-midnight_FV1",
+            "originalImageName": "",
+            "noImage": false,
+            "deferSrc": false
+        },
+        "airpods-max-select-202409-starlight_FV1": {
+            "scaleFactor": "DEFAULT",
+            "srcSet": {
+                "src": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-202409-starlight_FV1?wid=488&hei=458&fmt=jpeg&qlt=95&.v=1724927052398",
+                "scaleParams2": "wid=976&hei=916&fmt=jpeg&qlt=90&.v=1724927052398"
+            },
+            "attrs": "",
+            "alt": "AirPods Max in Starlight, over-ear headphones, aluminium ear cups, ear cushions, telescoping arms connect the cups and headband",
+            "width": "488",
+            "height": "458",
+            "imageName": "airpods-max-select-202409-starlight_FV1",
+            "originalImageName": "",
+            "noImage": false,
+            "deferSrc": false
+        },
+        "airpods-max-select-202409-orange_FV1": {
+            "scaleFactor": "DEFAULT",
+            "srcSet": {
+                "src": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-202409-orange_FV1?wid=488&hei=458&fmt=jpeg&qlt=95&.v=1724927052299",
+                "scaleParams2": "wid=976&hei=916&fmt=jpeg&qlt=90&.v=1724927052299"
+            },
+            "attrs": "",
+            "alt": "AirPods Max in Orange, over-ear headphones, aluminium ear cups, ear cushions, telescoping arms connect the cups and headband",
+            "width": "488",
+            "height": "458",
+            "imageName": "airpods-max-select-202409-orange_FV1",
+            "originalImageName": "",
+            "noImage": false,
+            "deferSrc": false
+        },
+        "airpods-max-select-202409-blue_FV1": {
+            "scaleFactor": "DEFAULT",
+            "srcSet": {
+                "src": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-202409-blue_FV1?wid=488&hei=458&fmt=jpeg&qlt=95&.v=1724927052173",
+                "scaleParams2": "wid=976&hei=916&fmt=jpeg&qlt=90&.v=1724927052173"
+            },
+            "attrs": "",
+            "alt": "AirPods Max in Blue, over-ear headphones, aluminium ear cups, ear cushions, telescoping arms connect the cups and headband",
+            "width": "488",
+            "height": "458",
+            "imageName": "airpods-max-select-202409-blue_FV1",
+            "originalImageName": "",
+            "noImage": false,
+            "deferSrc": false
+        },
+        "airpods-max-select-202409-purple_FV1": {
+            "scaleFactor": "DEFAULT",
+            "srcSet": {
+                "src": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-202409-purple_FV1?wid=488&hei=458&fmt=jpeg&qlt=95&.v=1724927052158",
+                "scaleParams2": "wid=976&hei=916&fmt=jpeg&qlt=90&.v=1724927052158"
+            },
+            "attrs": "",
+            "alt": "AirPods Max in Purple, over-ear headphones, aluminium ear cups, ear cushions, telescoping arms connect the cups and headband",
+            "width": "488",
+            "height": "458",
+            "imageName": "airpods-max-select-202409-purple_FV1",
+            "originalImageName": "",
+            "noImage": false,
+            "deferSrc": false
+        }
+    },
+    "actionUrl": {
+        "AIRPODSMAX_USB_C": "/shop/buyFlowSelectionSummary/AIRPODSMAX_USB_C?node=home/shop_airpods/family/airpods_max&step=select"
+    },
+    "selectButtonText": "Continue",
+    "labels": {
+        "changeText": "Change",
+        "a11yUpdatedImageText": ""
+    },
+    "additionalContent": {
+        "modelText": "Next",
+        "noPageScroll": null,
+        "animateSelectedImage": null
+    },
+    "favoritesEnabled": true
+}

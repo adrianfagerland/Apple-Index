@@ -1,0 +1,271 @@
+{
+  "head": {
+    "status": "200",
+    "data": {}
+  },
+  "body": {
+    "financing": {
+      "MW2V3": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "1799.00"
+            }
+          }
+        }
+      },
+      "MQH63": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "3999.00"
+            }
+          }
+        }
+      },
+      "MX2Y3": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "2899.00"
+            }
+          }
+        }
+      },
+      "MD2T4": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "1899.00"
+            }
+          }
+        }
+      },
+      "MX2K3": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "3199.00"
+            }
+          }
+        }
+      },
+      "MX303": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "3499.00"
+            }
+          }
+        }
+      },
+      "Z1JZ": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "6999.00"
+            }
+          }
+        }
+      },
+      "MC9L4": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "1699.00"
+            }
+          }
+        }
+      },
+      "MCX04": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "1999.00"
+            }
+          }
+        }
+      },
+      "MXD43": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "1499.00"
+            }
+          }
+        }
+      },
+      "MWUC3": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "1299.00"
+            }
+          }
+        }
+      },
+      "MCX44": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "1399.00"
+            }
+          }
+        }
+      },
+      "MC7X4": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "999.00"
+            }
+          }
+        }
+      },
+      "MQH73": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "1999.00"
+            }
+          }
+        }
+      },
+      "MW2U3": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "1599.00"
+            }
+          }
+        }
+      },
+      "MU9D3": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "599.00"
+            }
+          }
+        }
+      },
+      "MX2X3": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "2499.00"
+            }
+          }
+        }
+      },
+      "MWV33": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "1699.00"
+            }
+          }
+        }
+      },
+      "MC9G4": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "1299.00"
+            }
+          }
+        }
+      },
+      "MX313": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "3999.00"
+            }
+          }
+        }
+      },
+      "MXCV3": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "1299.00"
+            }
+          }
+        }
+      },
+      "MX2J3": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "2399.00"
+            }
+          }
+        }
+      },
+      "Z1K0": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "7499.00"
+            }
+          }
+        }
+      },
+      "MC8K4": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "1099.00"
+            }
+          }
+        }
+      },
+      "MX2H3": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "1999.00"
+            }
+          }
+        }
+      },
+      "MC8Q4": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "1499.00"
+            }
+          }
+        }
+      },
+      "MU9E3": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "799.00"
+            }
+          }
+        }
+      },
+      "MWUF3": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "1299.00"
+            }
+          }
+        }
+      },
+      "MCYT4": {
+        "priceData": {
+          "fullPrice": {
+            "raw": {
+              "price": "999.00"
+            }
+          }
+        }
+      }
+    }
+  }
+}

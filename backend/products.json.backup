@@ -1,0 +1,829 @@
+{
+    "products": [
+        {
+            "name": "MacBook Air",
+            "variations": [
+                {
+                    "screenSize": 13,
+                    "chip": "M2",
+                    "gpu_count": 8,
+                    "memory": 16,
+                    "storage": "256GB",
+                    "id": "MC7X4"
+                },
+                {
+                    "screenSize": 13,
+                    "chip": "M3",
+                    "gpu_count": 8,
+                    "memory": 16,
+                    "storage": "256GB",
+                    "id": "MC8K4"
+                },
+                {
+                    "screenSize": 13,
+                    "chip": "M3",
+                    "gpu_count": 10,
+                    "memory": 16,
+                    "storage": "512GB",
+                    "id": "MXCV3"
+                },
+                {
+                    "screenSize": 13,
+                    "chip": "M3",
+                    "gpu_count": 10,
+                    "memory": 24,
+                    "storage": "512GB",
+                    "id": "MC8Q4"
+                },
+                {
+                    "screenSize": 15,
+                    "chip": "M3",
+                    "gpu_count": 10,
+                    "memory": 16,
+                    "storage": "256GB",
+                    "id": "MC9G4"
+                },
+                {
+                    "screenSize": 15,
+                    "chip": "M3",
+                    "gpu_count": 10,
+                    "memory": 16,
+                    "storage": "512GB",
+                    "id": "MXD43"
+                },
+                {
+                    "screenSize": 15,
+                    "chip": "M3",
+                    "gpu_count": 10,
+                    "memory": 24,
+                    "storage": "512GB",
+                    "id": "MC9L4"
+                }
+            ]
+        },
+        {
+            "name": "MacBook Pro",
+            "variations": [
+                {
+                    "screenSize": 14,
+                    "chip": "M4",
+                    "gpu_count": 10,
+                    "memory": 16,
+                    "storage": "512GB",
+                    "id": "MW2U3"
+                },
+                {
+                    "screenSize": 14,
+                    "chip": "M4",
+                    "gpu_count": 10,
+                    "memory": 16,
+                    "storage": "1TB",
+                    "id": "MW2V3"
+                },
+                {
+                    "screenSize": 14,
+                    "chip": "M4",
+                    "gpu_count": 10,
+                    "memory": 24,
+                    "storage": "1TB",
+                    "id": "MCX04"
+                },
+                {
+                    "screenSize": 14,
+                    "chip": "M4 Pro",
+                    "gpu_count": 16,
+                    "memory": 24,
+                    "storage": "512GB",
+                    "id": "MX2H3"
+                },
+                {
+                    "screenSize": 14,
+                    "chip": "M4 Pro",
+                    "gpu_count": 20,
+                    "memory": 24,
+                    "storage": "1TB",
+                    "id": "MX2J3"
+                },
+                {
+                    "screenSize": 14,
+                    "chip": "M4 Max",
+                    "gpu_count": 32,
+                    "memory": 36,
+                    "storage": "1TB",
+                    "id": "MX2K3"
+                },
+                {
+                    "screenSize": 16,
+                    "chip": "M4 Pro",
+                    "gpu_count": 20,
+                    "memory": 24,
+                    "storage": "512GB",
+                    "id": "MX2X3"
+                },
+                {
+                    "screenSize": 16,
+                    "chip": "M4 Pro",
+                    "gpu_count": 20,
+                    "memory": 48,
+                    "storage": "1TB",
+                    "id": "MX2Y3"
+                },
+                {
+                    "screenSize": 16,
+                    "chip": "M4 Max",
+                    "gpu_count": 32,
+                    "memory": 36,
+                    "storage": "1TB",
+                    "id": "MX303"
+                },
+                {
+                    "screenSize": 16,
+                    "chip": "M4 Max",
+                    "gpu_count": 40,
+                    "memory": 48,
+                    "storage": "1TB",
+                    "id": "MX313"
+                }
+            ]
+        },
+        {
+            "name": "iMac",
+            "variations": [
+                {
+                    "chip": "M4",
+                    "gpu_count": 8,
+                    "storage": "256GB",
+                    "memory": 16,
+                    "id": "MWUF3"
+                },
+                {
+                    "chip": "M4",
+                    "gpu_count": 10,
+                    "storage": "256GB",
+                    "memory": 16,
+                    "id": "MWUC3"
+                },
+                {
+                    "chip": "M4",
+                    "gpu_count": 10,
+                    "storage": "512GB",
+                    "memory": 16,
+                    "id": "MWV33"
+                },
+                {
+                    "chip": "M4",
+                    "gpu_count": 10,
+                    "storage": "512GB",
+                    "memory": 24,
+                    "id": "MD2T4"
+                }
+            ]
+        },
+        {
+            "name": "Mac Mini",
+            "variations": [
+                {
+                    "chip": "M4",
+                    "gpu_count": 10,
+                    "storage": "256GB",
+                    "memory": 16,
+                    "id": "MU9D3"
+                },
+                {
+                    "chip": "M4",
+                    "gpu_count": 10,
+                    "storage": "512GB",
+                    "memory": 16,
+                    "id": "MU9E3"
+                },
+                {
+                    "chip": "M4",
+                    "gpu_count": 10,
+                    "storage": "512GB",
+                    "memory": 24,
+                    "id": "MCYT4"
+                },
+                {
+                    "chip": "M4",
+                    "gpu_count": 16,
+                    "storage": "512GB",
+                    "memory": 24,
+                    "id": "MCX44"
+                }
+            ]
+        },
+        {
+            "name": "Mac Studio",
+            "variations": [
+                {
+                    "chip": "M2 Max",
+                    "gpu_count": 30,
+                    "storage": "512GB",
+                    "memory": 32,
+                    "id": "MQH73"
+                },
+                {
+                    "chip": "M2 Ultra",
+                    "gpu_count": 60,
+                    "storage": "1TB",
+                    "memory": 64,
+                    "id": "MQH63"
+                }
+            ]
+        },
+        {
+            "name": "Mac Pro",
+            "variations": [
+                {
+                    "chip": "M2 Ultra",
+                    "gpu_count": 60,
+                    "storage": "1TB",
+                    "memory": 64,
+                    "formFactor": "Tower",
+                    "id": "Z1JZ"
+                },
+                {
+                    "chip": "M2 Ultra",
+                    "gpu_count": 60,
+                    "storage": "1TB",
+                    "memory": 64,
+                    "formFactor": "Rack",
+                    "id": "Z1K0"
+                }
+            ]
+        },
+        {
+            "name": "iPad Pro",
+            "variations": [
+                {
+                    "screenSize": 11,
+                    "storage": "256GB",
+                    "glass": "Standard",
+                    "connectivity": "Wi-Fi",
+                    "id": "MVV93"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "512GB",
+                    "glass": "Standard",
+                    "connectivity": "Wi-Fi",
+                    "id": "MVVD3"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "1TB",
+                    "glass": "Standard",
+                    "connectivity": "Wi-Fi",
+                    "id": "MVVE3"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "2TB",
+                    "glass": "Standard",
+                    "connectivity": "Wi-Fi",
+                    "id": "MVVH3"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "1TB",
+                    "glass": "Nano-texture",
+                    "connectivity": "Wi-Fi",
+                    "id": "MWR73"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "2TB",
+                    "glass": "Nano-texture",
+                    "connectivity": "Wi-Fi",
+                    "id": "MWR93"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "256GB",
+                    "glass": "Standard",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MVW13"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "512GB",
+                    "glass": "Standard",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MVW33"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "1TB",
+                    "glass": "Standard",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MVW63"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "2TB",
+                    "glass": "Standard",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MVW73"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "1TB",
+                    "glass": "Nano-texture",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MWRP3"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "2TB",
+                    "glass": "Nano-texture",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MWRR3"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "256GB",
+                    "glass": "Standard",
+                    "connectivity": "Wi-Fi",
+                    "id": "MVX33"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "512GB",
+                    "glass": "Standard",
+                    "connectivity": "Wi-Fi",
+                    "id": "MVX43"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "1TB",
+                    "glass": "Standard",
+                    "connectivity": "Wi-Fi",
+                    "id": "MVX63"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "2TB",
+                    "glass": "Standard",
+                    "connectivity": "Wi-Fi",
+                    "id": "MVX83"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "1TB",
+                    "glass": "Nano-texture",
+                    "connectivity": "Wi-Fi",
+                    "id": "MWRF3"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "2TB",
+                    "glass": "Nano-texture",
+                    "connectivity": "Wi-Fi",
+                    "id": "MWRJ3"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "256GB",
+                    "glass": "Standard",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MVXR3"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "512GB",
+                    "glass": "Standard",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MVXU3"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "1TB",
+                    "glass": "Standard",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MVXW3"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "2TB",
+                    "glass": "Standard",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MVXY3"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "1TB",
+                    "glass": "Nano-texture",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MWRY3"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "2TB",
+                    "glass": "Nano-texture",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MWT23"
+                }
+            ]
+        },
+        {
+            "name": "iPad Air",
+            "variations": [
+                {
+                    "screenSize": 11,
+                    "storage": "128GB",
+                    "connectivity": "Wi-Fi",
+                    "id": "MUWD3"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "256GB",
+                    "connectivity": "Wi-Fi",
+                    "id": "MUWH3"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "512GB",
+                    "connectivity": "Wi-Fi",
+                    "id": "MUWM3"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "1TB",
+                    "connectivity": "Wi-Fi",
+                    "id": "MUWR3"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "128GB",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MUXE3"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "256GB",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MUXJ3"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "512GB",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MUXN3"
+                },
+                {
+                    "screenSize": 11,
+                    "storage": "1TB",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MUXT3"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "128GB",
+                    "connectivity": "Wi-Fi",
+                    "id": "MV273"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "256GB",
+                    "connectivity": "Wi-Fi",
+                    "id": "MV2D3"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "512GB",
+                    "connectivity": "Wi-Fi",
+                    "id": "MV2J3"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "1TB",
+                    "connectivity": "Wi-Fi",
+                    "id": "MV2P3"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "128GB",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MV6Q3"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "256GB",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MV6Y3"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "512GB",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MV733"
+                },
+                {
+                    "screenSize": 13,
+                    "storage": "1TB",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MV773"
+                }
+            ]
+        },
+        {
+            "name": "iPad",
+            "variations": [
+                {
+                    "storage": "64GB",
+                    "connectivity": "Wi-Fi",
+                    "id": "MPQ03"
+                },
+                {
+                    "storage": "64GB",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MQ6K3"
+                },
+                {
+                    "storage": "256GB",
+                    "connectivity": "Wi-Fi",
+                    "id": "MPQ83"
+                },
+                {
+                    "storage": "256GB",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MQ6T3"
+                }
+            ]
+        },
+        {
+            "name": "iPad Mini",
+            "variations": [
+                {
+                    "storage": "64GB",
+                    "connectivity": "Wi-Fi",
+                    "id": "MXN63"
+                },
+                {
+                    "storage": "64GB",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MXPN3"
+                },
+                {
+                    "storage": "256GB",
+                    "connectivity": "Wi-Fi",
+                    "id": "MXNA3"
+                },
+                {
+                    "storage": "256GB",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MXPX3"
+                },
+                {
+                    "storage": "512GB",
+                    "connectivity": "Wi-Fi",
+                    "id": "MYH13"
+                },
+                {
+                    "storage": "512GB",
+                    "connectivity": "Wi-Fi + Cellular",
+                    "id": "MYHC3"
+                }
+            ]
+        },
+        {
+            "name": "iPhone 16 Pro",
+            "variations": [
+                {
+                    "model": "iPhone 16 Pro",
+                    "storage": "128GB"
+                },
+                {
+                    "model": "iPhone 16 Pro",
+                    "storage": "256GB"
+                },
+                {
+                    "model": "iPhone 16 Pro",
+                    "storage": "512GB"
+                },
+                {
+                    "model": "iPhone 16 Pro",
+                    "storage": "1TB"
+                },
+                {
+                    "model": "iPhone 16 Pro Max",
+                    "storage": "128GB"
+                },
+                {
+                    "model": "iPhone 16 Pro Max",
+                    "storage": "256GB"
+                },
+                {
+                    "model": "iPhone 16 Pro Max",
+                    "storage": "512GB"
+                },
+                {
+                    "model": "iPhone 16 Pro Max",
+                    "storage": "1TB"
+                }
+            ]
+        },
+        {
+            "name": "iPhone 16",
+            "variations": [
+                {
+                    "model": "iPhone 16",
+                    "storage": "128GB"
+                },
+                {
+                    "model": "iPhone 16",
+                    "storage": "256GB"
+                },
+                {
+                    "model": "iPhone 16",
+                    "storage": "512GB"
+                },
+                {
+                    "model": "iPhone 16 Plus",
+                    "storage": "128GB"
+                },
+                {
+                    "model": "iPhone 16 Plus",
+                    "storage": "256GB"
+                },
+                {
+                    "model": "iPhone 16 Plus",
+                    "storage": "512GB"
+                }
+            ]
+        },
+        {
+            "name": "iPhone 15",
+            "variations": [
+                {
+                    "model": "iPhone 15",
+                    "storage": "128GB"
+                },
+                {
+                    "model": "iPhone 15",
+                    "storage": "256GB"
+                },
+                {
+                    "model": "iPhone 15",
+                    "storage": "512GB"
+                },
+                {
+                    "model": "iPhone 15 Plus",
+                    "storage": "128GB"
+                },
+                {
+                    "model": "iPhone 15 Plus",
+                    "storage": "256GB"
+                },
+                {
+                    "model": "iPhone 15 Plus",
+                    "storage": "512GB"
+                }
+            ]
+        },
+        {
+            "name": "iPhone 14",
+            "variations": [
+                {
+                    "model": "iPhone 14",
+                    "storage": "128GB"
+                },
+                {
+                    "model": "iPhone 14",
+                    "storage": "256GB"
+                },
+                {
+                    "model": "iPhone 14",
+                    "storage": "512GB"
+                },
+                {
+                    "model": "iPhone 14 Plus",
+                    "storage": "128GB"
+                },
+                {
+                    "model": "iPhone 14 Plus",
+                    "storage": "256GB"
+                },
+                {
+                    "model": "iPhone 14 Plus",
+                    "storage": "512GB"
+                }
+            ]
+        },
+        {
+            "name": "iPhone SE",
+            "variations": [
+                {
+                    "storage": "64GB"
+                },
+                {
+                    "storage": "128GB"
+                },
+                {
+                    "storage": "256GB"
+                }
+            ]
+        },
+        {
+            "name": "Apple Watch Series 10",
+            "variations": [
+                {
+                    "case": "Aluminum",
+                    "size": 42,
+                    "connectivity": "GPS"
+                },
+                {
+                    "case": "Aluminum",
+                    "size": 42,
+                    "connectivity": "GPS + Cellular"
+                },
+                {
+                    "case": "Aluminum",
+                    "size": 46,
+                    "connectivity": "GPS"
+                },
+                {
+                    "case": "Aluminum",
+                    "size": 46,
+                    "connectivity": "GPS + Cellular"
+                },
+                {
+                    "case": "Titanium",
+                    "size": 42,
+                    "connectivity": "GPS"
+                },
+                {
+                    "case": "Titanium",
+                    "size": 42,
+                    "connectivity": "GPS + Cellular"
+                },
+                {
+                    "case": "Titanium",
+                    "size": 46,
+                    "connectivity": "GPS"
+                },
+                {
+                    "case": "Titanium",
+                    "size": 46,
+                    "connectivity": "GPS + Cellular"
+                }
+            ]
+        },
+        {
+            "name": "Apple Watch Ultra 2",
+            "variations": [
+                {}
+            ]
+        },
+        {
+            "name": "Apple Watch SE",
+            "variations": [
+                {
+                    "size": 40,
+                    "connectivity": "GPS"
+                },
+                {
+                    "size": 40,
+                    "connectivity": "GPS + Cellular"
+                },
+                {
+                    "size": 44,
+                    "connectivity": "GPS"
+                },
+                {
+                    "size": 44,
+                    "connectivity": "GPS + Cellular"
+                }
+            ]
+        },
+        {
+            "name": "Apple Vision Pro",
+            "variations": [
+                {}
+            ]
+        },
+        {
+            "name": "AirPods 4",
+            "variations": [
+                {
+                    "model": "AirPods 4"
+                },
+                {
+                    "model": "AirPods 4 with Active Noise Cancellation"
+                }
+            ]
+        },
+        {
+            "name": "AirPods Pro 2",
+            "variations": [
+                {}
+            ]
+        },
+        {
+            "name": "AirPods Max",
+            "variations": [
+                {}
+            ]
+        }
+    ]
+}
