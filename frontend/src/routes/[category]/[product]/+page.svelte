@@ -266,7 +266,7 @@
 			title: `${productConfig.name} - Apple Index`,
 			description: `Compare ${productConfig.name} prices across different countries. Find the best deals on ${productConfig.name} in your region.`
 		} -->
-
+	<title>{data.product.name} - Apple Index</title>
 	<meta
 		name="description"
 		content={`Compare ${data.product.name} prices across different countries. Find the cheapest country to buy ${data.product.name} in.`}

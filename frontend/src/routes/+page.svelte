@@ -67,7 +67,7 @@
 </script>
 
 <svelte:head>
-	<title>Apple Index</title>
+	<title>Apple Index - Compare Apple prices across the world</title>
 	<meta
 		name="description"
 		content="Compare Apple product prices across different countries. This website is kind of like what The Mac Index used to be."
@@ -124,7 +124,7 @@
 						</div>
 					</CardHeader>
 					<CardContent class="p-4">
-						<CardTitle class="mb-4">{product.name}</CardTitle>
+						<CardTitle class="mb-4 text-xl">{product.name}</CardTitle>
 						<div class="mt-4">
 							<Table.Root>
 								<Table.Header>
