@@ -611,6 +611,17 @@
             "storage": "512GB"
         }
     ],
+    "iPhone 16e": [
+        {
+            "storage": "128GB"
+        },
+        {
+            "storage": "256GB"
+        },
+        {
+            "storage": "512GB"
+        }
+    ],
     "iPhone 15": [
         {
             "model": "iPhone 15",
@@ -635,43 +646,6 @@
         {
             "model": "iPhone 15 Plus",
             "storage": "512GB"
-        }
-    ],
-    "iPhone 14": [
-        {
-            "model": "iPhone 14",
-            "storage": "128GB"
-        },
-        {
-            "model": "iPhone 14",
-            "storage": "256GB"
-        },
-        {
-            "model": "iPhone 14",
-            "storage": "512GB"
-        },
-        {
-            "model": "iPhone 14 Plus",
-            "storage": "128GB"
-        },
-        {
-            "model": "iPhone 14 Plus",
-            "storage": "256GB"
-        },
-        {
-            "model": "iPhone 14 Plus",
-            "storage": "512GB"
-        }
-    ],
-    "iPhone SE": [
-        {
-            "storage": "64GB"
-        },
-        {
-            "storage": "128GB"
-        },
-        {
-            "storage": "256GB"
         }
     ],
     "Apple Watch Series 10": [
