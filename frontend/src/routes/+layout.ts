@@ -1,3 +1,5 @@
+import { dev } from '$app/environment';
+import { injectAnalytics } from '@vercel/analytics/sveltekit';
 export const prerender = true;
 
 export function load() {
@@ -8,3 +10,6 @@ export function load() {
 		}
 	};
 }
+injectAnalytics({
+	mode: dev ? 'development' : 'production'
+});
