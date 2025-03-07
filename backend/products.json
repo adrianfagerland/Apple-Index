@@ -2,59 +2,51 @@
     "MacBook Air": [
         {
             "screen_size": 13,
-            "chip": "M2",
+            "chip": "M4",
             "gpu_count": 8,
             "memory": 16,
             "storage": "256GB",
-            "id": "MC7X4"
+            "id": "MW123"
         },
         {
             "screen_size": 13,
-            "chip": "M3",
-            "gpu_count": 8,
-            "memory": 16,
-            "storage": "256GB",
-            "id": "MC8K4"
-        },
-        {
-            "screen_size": 13,
-            "chip": "M3",
+            "chip": "M4",
             "gpu_count": 10,
             "memory": 16,
             "storage": "512GB",
-            "id": "MXCV3"
+            "id": "MC6U4"
         },
         {
             "screen_size": 13,
-            "chip": "M3",
+            "chip": "M4",
             "gpu_count": 10,
             "memory": 24,
             "storage": "512GB",
-            "id": "MC8Q4"
+            "id": "MC6V4"
         },
         {
             "screen_size": 15,
-            "chip": "M3",
+            "chip": "M4",
             "gpu_count": 10,
             "memory": 16,
             "storage": "256GB",
-            "id": "MC9G4"
+            "id": "MC7A4"
         },
         {
             "screen_size": 15,
-            "chip": "M3",
+            "chip": "M4",
             "gpu_count": 10,
             "memory": 16,
             "storage": "512GB",
-            "id": "MXD43"
+            "id": "MC7C4"
         },
         {
             "screen_size": 15,
-            "chip": "M3",
+            "chip": "M4",
             "gpu_count": 10,
             "memory": 24,
             "storage": "512GB",
-            "id": "MC9L4"
+            "id": "MC6K4"
         }
     ],
     "MacBook Pro": [
@@ -201,18 +193,18 @@
     ],
     "Mac Studio": [
         {
-            "chip": "M2 Max",
-            "gpu_count": 30,
+            "chip": "M4 Max",
+            "gpu_count": 32,
             "storage": "512GB",
-            "memory": 32,
-            "id": "MQH73"
+            "memory": 36,
+            "id": "MU963"
         },
         {
-            "chip": "M2 Ultra",
+            "chip": "M3 Ultra",
             "gpu_count": 60,
             "storage": "1TB",
-            "memory": 64,
-            "id": "MQH63"
+            "memory": 96,
+            "id": "MU973"
         }
     ],
     "Mac Pro": [
@@ -408,119 +400,129 @@
             "screen_size": 11,
             "storage": "128GB",
             "connectivity": "Wi-Fi",
-            "id": "MUWD3"
+            "id": "MCA04"
         },
         {
             "screen_size": 11,
             "storage": "256GB",
             "connectivity": "Wi-Fi",
-            "id": "MUWH3"
+            "id": "MCA64"
         },
         {
             "screen_size": 11,
             "storage": "512GB",
             "connectivity": "Wi-Fi",
-            "id": "MUWM3"
+            "id": "MCAE4"
         },
         {
             "screen_size": 11,
             "storage": "1TB",
             "connectivity": "Wi-Fi",
-            "id": "MUWR3"
+            "id": "MCAU4"
         },
         {
             "screen_size": 11,
             "storage": "128GB",
             "connectivity": "Wi-Fi + Cellular",
-            "id": "MUXE3"
+            "id": "MCFY4"
         },
         {
             "screen_size": 11,
             "storage": "256GB",
             "connectivity": "Wi-Fi + Cellular",
-            "id": "MUXJ3"
+            "id": "MCG34"
         },
         {
             "screen_size": 11,
             "storage": "512GB",
             "connectivity": "Wi-Fi + Cellular",
-            "id": "MUXN3"
+            "id": "MCG74"
         },
         {
             "screen_size": 11,
             "storage": "1TB",
             "connectivity": "Wi-Fi + Cellular",
-            "id": "MUXT3"
+            "id": "MCGC4"
         },
         {
             "screen_size": 13,
             "storage": "128GB",
             "connectivity": "Wi-Fi",
-            "id": "MV273"
+            "id": "MCNJ4"
         },
         {
             "screen_size": 13,
             "storage": "256GB",
             "connectivity": "Wi-Fi",
-            "id": "MV2D3"
+            "id": "MCNP4"
         },
         {
             "screen_size": 13,
             "storage": "512GB",
             "connectivity": "Wi-Fi",
-            "id": "MV2J3"
+            "id": "MCNW4"
         },
         {
             "screen_size": 13,
             "storage": "1TB",
             "connectivity": "Wi-Fi",
-            "id": "MV2P3"
+            "id": "MCQ14"
         },
         {
             "screen_size": 13,
             "storage": "128GB",
             "connectivity": "Wi-Fi + Cellular",
-            "id": "MV6Q3"
+            "id": "MCJ24"
         },
         {
             "screen_size": 13,
             "storage": "256GB",
             "connectivity": "Wi-Fi + Cellular",
-            "id": "MV6Y3"
+            "id": "MCJ64"
         },
         {
             "screen_size": 13,
             "storage": "512GB",
             "connectivity": "Wi-Fi + Cellular",
-            "id": "MV733"
+            "id": "MCJA4"
         },
         {
             "screen_size": 13,
             "storage": "1TB",
             "connectivity": "Wi-Fi + Cellular",
-            "id": "MV773"
+            "id": "MCJF4"
         }
     ],
     "iPad": [
         {
             "storage": "64GB",
             "connectivity": "Wi-Fi",
-            "id": "MPQ03"
+            "id": "MD4A4"
         },
         {
             "storage": "64GB",
             "connectivity": "Wi-Fi + Cellular",
-            "id": "MQ6K3"
+            "id": "MD4P4"
         },
         {
             "storage": "256GB",
             "connectivity": "Wi-Fi",
-            "id": "MPQ83"
+            "id": "MD4Y4"
         },
         {
             "storage": "256GB",
             "connectivity": "Wi-Fi + Cellular",
-            "id": "MQ6T3"
+            "id": "MD7T4"
+        },
+        {
+            "storage": "512GB",
+            "connectivity": "Wi-Fi",
+            "id": "MD7K4"
+        },
+        {
+            "storage": "512GB",
+            "connectivity": "Wi-Fi + Cellular",
+            "id": "MD7Q4"
         }
     ],
     "iPad Mini": [
