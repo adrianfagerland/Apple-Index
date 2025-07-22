@@ -1,4 +1,5 @@
 <script lang="ts">
+	import SEO from '$lib/components/SEO.svelte';
 	import { Button } from '$lib/components/ui/button';
 	import * as Table from '$lib/components/ui/table';
 	import { exchangeRates } from '$lib/stores/currency';
@@ -261,17 +262,7 @@
 	}
 </script>
 
-<svelte:head>
-	<!-- metadata: {
-			title: `${productConfig.name} - Apple Index`,
-			description: `Compare ${productConfig.name} prices across different countries. Find the best deals on ${productConfig.name} in your region.`
-		} -->
-	<title>{data.product.name} - Apple Index</title>
-	<meta
-		name="description"
-		content={`Compare ${data.product.name} prices across different countries. Find the cheapest country to buy ${data.product.name} in.`}
-	/>
-</svelte:head>
+<SEO product={data.product} />
 
 <div class="container mx-auto max-w-7xl py-8">
 	<h1 class="mb-8 text-4xl font-bold">{data.product.name}</h1>
