@@ -557,34 +557,53 @@
             "id": "MYHC3"
         }
     ],
-    "iPhone 16 Pro": [
+    "iPhone 17 Pro": [
         {
-            "model": "iPhone 16 Pro",
-            "storage": "128GB"
-        },
-        {
-            "model": "iPhone 16 Pro",
+            "model": "iPhone 17 Pro",
             "storage": "256GB"
         },
         {
-            "model": "iPhone 16 Pro",
+            "model": "iPhone 17 Pro",
             "storage": "512GB"
         },
         {
-            "model": "iPhone 16 Pro",
+            "model": "iPhone 17 Pro",
             "storage": "1TB"
         },
         {
-            "model": "iPhone 16 Pro Max",
+            "model": "iPhone 17 Pro Max",
             "storage": "256GB"
         },
         {
-            "model": "iPhone 16 Pro Max",
+            "model": "iPhone 17 Pro Max",
             "storage": "512GB"
         },
         {
-            "model": "iPhone 16 Pro Max",
+            "model": "iPhone 17 Pro Max",
             "storage": "1TB"
+        },
+        {
+            "model": "iPhone 17 Pro Max",
+            "storage": "2TB"
+        }
+    ],
+    "iPhone 17 Air": [
+        {
+            "storage": "256GB"
+        },
+        {
+            "storage": "512GB"
+        },
+        {
+            "storage": "1TB"
+        }
+    ],
+    "iPhone 17": [
+        {
+            "storage": "256GB"
+        },
+        {
+            "storage": "512GB"
         }
     ],
     "iPhone 16": [
@@ -593,24 +612,12 @@
             "storage": "128GB"
         },
         {
-            "model": "iPhone 16",
-            "storage": "256GB"
-        },
-        {
-            "model": "iPhone 16",
-            "storage": "512GB"
-        },
-        {
             "model": "iPhone 16 Plus",
             "storage": "128GB"
         },
         {
             "model": "iPhone 16 Plus",
             "storage": "256GB"
-        },
-        {
-            "model": "iPhone 16 Plus",
-            "storage": "512GB"
         }
     ],
     "iPhone 16e": [
@@ -624,33 +631,7 @@
             "storage": "512GB"
         }
     ],
-    "iPhone 15": [
-        {
-            "model": "iPhone 15",
-            "storage": "128GB"
-        },
-        {
-            "model": "iPhone 15",
-            "storage": "256GB"
-        },
-        {
-            "model": "iPhone 15",
-            "storage": "512GB"
-        },
-        {
-            "model": "iPhone 15 Plus",
-            "storage": "128GB"
-        },
-        {
-            "model": "iPhone 15 Plus",
-            "storage": "256GB"
-        },
-        {
-            "model": "iPhone 15 Plus",
-            "storage": "512GB"
-        }
-    ],
-    "Apple Watch Series 10": [
+    "Apple Watch Series 11": [
         {
             "case": "Aluminium",
             "size": 42,
@@ -682,10 +663,10 @@
             "connectivity": "GPS + Cellular"
         }
     ],
-    "Apple Watch Ultra 2": [
+    "Apple Watch Ultra 3": [
         {}
     ],
-    "Apple Watch SE": [
+    "Apple Watch SE 3": [
         {
             "size": 40,
             "connectivity": "GPS"
@@ -722,7 +703,7 @@
             "model": "AirPods 4 with Active Noise Cancellation"
         }
     ],
-    "AirPods Pro 2": [
+    "AirPods Pro 3": [
         {}
     ],
     "AirPods Max": [

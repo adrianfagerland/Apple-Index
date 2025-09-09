@@ -265,7 +265,11 @@
 <SEO product={data.product} />
 
 <div class="container mx-auto max-w-7xl py-8">
-	<h1 class="mb-8 text-4xl font-bold">{data.product.name}</h1>
+	<h1 class="mb-2 text-4xl font-bold">{data.product.name} Price Comparison</h1>
+	<h2 class="mb-8 text-lg text-muted-foreground">
+		Compare prices for the {data.product.name} across different countries and find the cheapest
+		region to buy it. Prices are updated regularly to ensure you get the most accurate information.
+	</h2>
 
 	<!-- Configuration Panel with Image -->
 	<div class="mb-12 rounded-lg bg-muted/50 p-6">
@@ -279,6 +283,7 @@
 						src={productImage}
 						alt={data.product.name}
 						class="ml-auto h-auto max-h-[350px] rounded-lg object-contain"
+						loading="lazy"
 					/>
 				</div>
 			</div>
@@ -351,6 +356,8 @@
 										src="https://flagcdn.com/{country.toLowerCase()}.svg"
 										alt={`Flag of ${country}`}
 										width="15"
+										loading="lazy"
+										decoding="async"
 									/>
 								{:else}
 									<span>{emoji}</span>

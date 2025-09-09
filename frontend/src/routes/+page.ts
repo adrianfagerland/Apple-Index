@@ -11,10 +11,10 @@ export interface FeaturedProduct {
 // Define featured products
 const FEATURED_PRODUCTS = [
 	{ category: 'mac', slug: 'macbook-air' },
-	{ category: 'iphone', slug: 'iphone-16' },
+	{ category: 'iphone', slug: 'iphone-17' },
 	{ category: 'ipad', slug: 'ipad-air' },
 	{ category: 'mac', slug: 'macbook-pro' },
-	{ category: 'iphone', slug: 'iphone-16-pro' },
+	{ category: 'iphone', slug: 'iphone-17-pro' },
 	{ category: 'mac', slug: 'mac-mini' },
 ] as const;
 

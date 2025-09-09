@@ -89,23 +89,28 @@ export const routes: RouteConfig = {
 		title: 'iPhone',
 		products: [
 			{
-				slug: 'iphone-16-pro',
-				name: 'iPhone 16 Pro',
+				slug: 'iphone-17-pro',
+				name: 'iPhone 17 Pro',
 				image:
-					'https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-9inch-blacktitanium?wid=5120&hei=2880&fmt=webp&qlt=70&.v=eUdsd0dIb3VUOXdtWkY0VFUwVE8vbEdkZHNlSjBQRklnaFB2d3I5MW94NlcvVjg4Q2h4WWRjcFAyYlBrM0N1bGlCQmV2WTA2cncybDF2YzFnKzI0S2prMCtUNWwzYWR0UVU3TWVsbEdUeXZka3Q2dVFYV2lxTm4wNXBJcGZoM1Rqb3p6Q2ZyUTlqTERzaHFUOVhnZGR3&traceId=1'
+					'https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-3inch-deepblue?wid=5120&hei=2880&fmt=webp&qlt=90&.v=NUNzdzNKR0FJbmhKWm5YamRHb05tUzkyK3hWak1ybHhtWDkwUXVINFc0RUczK3M0RVhxWWpFZXJsZzlEU0tTSHVHdDcxbVFRSnhaQ0pnV1pOaG5KaGhNQnJMcnc4RkxJd3ZMc3hKZVVFWHVpT1Z6NWMwNURPMDlnZXlyQlY4dlVwYS9BYWxBUFY3NVFZRnlMNGI1MGh3&traceId=1'
 			},
 			{
+				slug: 'iphone-air',
+				name: 'iPhone Air',
+				image:
+					'https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-202509-spaceblack?wid=5120&hei=2880&fmt=webp&qlt=90&.v=NUpaQVl1bitSNmJWZUdKdi9QZHhsQnMyOXpiUEVyWXc0UFVFMUg1R1Ztcit0SFUxZzlOYjFnK2g1TG9hVnNYcmd2S3NaRzcrU0dmYjNHTUFiMnlsWFUxSlgrVWMrMzU1OXo2c2JyNjJZTGdKcDN0aXVOTTZnUHhGVUh3VFRCL1A&traceId=1'
+			},{
+				slug: 'iphone-17',
+				name: 'iPhone 17',
+				image:
+					'https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-202509-black_GEO_US?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxa3pYQjBteGp2cFFHL09TNGhVUUhxeHFkSUJZcmNjVXZ4cDk3YTVMcWk4SHF2TWlpSzUzejRCZGt2SjJUNGl1VEE4bm1RcmlWRWp2eDN1WHNkSjNmUmJRdGRDSXo3RG9GTXJVdDhBcERxMEQ&traceId=1'
+			},{
 				slug: 'iphone-16',
 				name: 'iPhone 16',
 				image:
 					'https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-finish-select-202409-6-7inch-black?wid=5120&hei=2880&fmt=webp&qlt=70&.v=UXp1U3VDY3IyR1hNdHZwdFdOLzg1V0tFK1lhSCtYSGRqMUdhR284NTN4L2xJT1MvUkQrVjRwaXNCNlgyUGhDdU9MekhWSGZtV1pvV240QzNuTk80VXhseHVZcEw1SmhqcElaQkJMTm9FMzlybFRjTGx3Ymc5Q0xLTWVYeWNsMG8&traceId=1'
 			},
-			{
-				slug: 'iphone-15',
-				name: 'iPhone 15',
-				image:
-					'https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-15-finish-select-202309-6-7inch-black?wid=5120&hei=2880&fmt=webp&qlt=70&.v=cHJOTXEwTU92OEtKVDV2cVB1R2FTSjlERndlRTljaUdZeHJGM3dlLzR2L2xJT1MvUkQrVjRwaXNCNlgyUGhDdU9MekhWSGZtV1pvV240QzNuTk80VXhseHVZcEw1SmhqcElaQkJMTm9FMytQNHRHSXNvL0hGVGlzeWppV0UxM3U&traceId=1'
-			},
+			
 			{
 				slug: 'iphone-16e',
 				name: 'iPhone 16e',
@@ -124,22 +129,22 @@ export const routes: RouteConfig = {
 					'https://store.storeimages.cdn-apple.com/4981/as-images.apple.com/is/vision-pro-gallery-payment-202401_FMT_WHH?wid=1280&hei=720&fmt=p-jpg&qlt=95&.v=1701912705450'
 			},
 			{
-				slug: 'apple-watch-series-10',
-				name: 'Apple Watch Series 10',
+				slug: 'apple-watch-series-11',
+				name: 'Apple Watch Series 11',
 				image:
-					'https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s10-case-size-select-202409-aluminum-jet-black-46mm?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=d01LeFR0K0V4MnBZdmk4a2dHWFRaSGkvREVuVVBSc3RRT2hMdlRYQUplY1dFeEtkd2lBUEtxWldFZTNXeGFkVXpLaG5vK3dJZXFBTTZ0d05aVlpoUVh4TS9QOFlhVHZoV2xFZjU3V3B4aXNqZHBGOXVvUVIvUUNUYndFNVFmNW9LQ0FOR1h4S29BRHovMjZ3b2tYZmVB'
+					'https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s11-case-select-202509-aluminum-jet-black?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=OWZ0bXVDZkl0SldCMWswM0FYcUNTUHZ1STNHWTBvSFpnMG5kR3dUaTRpeWNIZjB2Y2x5b05WU00vQnBZNmczamZvSGF2dFhlaXl5ZzZDVTRMdEVvNldmalN5dlRpR2R3QUc1RGJwYllnWmdxWjFSTkRWemo5VzdVWUw4OTJvK2Q'
 			},
 			{
-				slug: 'apple-watch-ultra-2',
-				name: 'Apple Watch Ultra 2',
+				slug: 'apple-watch-ultra-3',
+				name: 'Apple Watch Ultra 3',
 				image:
-					'https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MYPW3ref_VW_34FR+watch-case-49-titanium-black-ultra2_VW_34FR+watch-face-49-alpine-ultra2_VW_34FR?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=ODJ6TUhuVUxmSXVQbXkrRFpieTV1M2pDV2hhem5qNnpDenFtKzI1OXdzWjRaeVR4RW9XWXhWVHRHeXZEa3AwcGZsNDErT2hQbWVmS0VCWlVweVY1UG5JeTlvZUg2NDJab29oaTJoOXRFQXBBSGRzUUpEVHM4ZVJVZlRFRENTN3dkd1o4QjdsQWVyZ0k5NU9zSDMxKzBHbytKTUtMVWljVzR5ZGEwNUpVZGUrckpmNWN0WVRsNmlxbjU0T3JCYkhaSW94SzBxYk9aamJxYmpyMzdYUFdjN3lDTk9UZTF2b0xoKzNMc1FnOGhROA'
+					'https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ultra-case-select-202509-black?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=eklmRkg1SGV0cnBBRkZsU1d5OTdqNDZ4eWNXSG9hWS81dk0xOGxMSGNraXRQaHRXQmg1Smw1K0VETVJwK2N3R3ZGdXpoZGFjcnJiZGtXTlNNRSszQXVKd05xSk8rWU0zQVB6eFBIbkhXbHZNbWNiSkkrWnVwaVd4bUt2bm5sUkY'
 			},
 			{
-				slug: 'apple-watch-se',
-				name: 'Apple Watch SE',
+				slug: 'apple-watch-se-3',
+				name: 'Apple Watch SE 3',
 				image:
-					'https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/se-case-size-select-202409-midnight-44mm?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=S0ZpY0dROXo2U0dDeTlxWXM0bXUycEx1MDFJN0ViSmVrSTA5QzdQeFVySkpaZ3IzQmxaMjNMVDgzK0I4S0xvcnpvSEo2UzBKSm5BUmFETEIwa1Jzd1BXdlJRYjdSZWJHVUh4aFVDb0hhVVVqWmRIdmpoUXV0eW1QUThrZkNrNlo'
+					'https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/se-case-select-202509-midnight?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=Kzl5VjJlYy8yNE5uZ1M0cU0rKzBvQURUaTBaY01DVXNUUXN4S2xSaTIvMnRQaHRXQmg1Smw1K0VETVJwK2N3R3ZGdXpoZGFjcnJiZGtXTlNNRSszQWhiQVoyN1NCZURhTDVrODdVZFZwOCtZY0NtY1ViSzFtVWp5R3JFaTBUemg'
 			},
 			{
 				slug: 'airpods-4',
@@ -148,10 +153,10 @@ export const routes: RouteConfig = {
 					'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-4-anc-select-202409_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=1725502554118'
 			},
 			{
-				slug: 'airpods-pro-2',
-				name: 'AirPods Pro 2',
+				slug: 'airpods-pro-3',
+				name: 'AirPods Pro 3',
 				image:
-					'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=1725492499003'
+					'https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-3-hero-select-202509?wid=976&hei=916&fmt=jpeg&qlt=90&.v=cmp4MmZ6OWxOeHNNTXh4SzlBNUpEb1RucE9zZTI5eEREaWZpY29lSld3eWVDYXovZDMyN1dXU211bjZoVlVUcWJGcXNRQnFCV0w3WVRjTExvdm1ic2M2d1A3akN5RnhicUhBZWMwNXB6MUwrNmVjbmk5c1V4VVk2VEt3TGcxekg'
 			},
 			{
 				slug: 'airpods-max',
@@ -170,3 +175,4 @@ export const routes: RouteConfig = {
 //     { slug: 'homepod-mini', name: 'HomePod mini' }
 //   ]
 // }
+
