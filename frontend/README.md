@@ -4,6 +4,5 @@
 - Change the `routes.ts` file.
 - Do I need a new category?
 - Change version number in `products.ts`
-- Do backend ofc.
 - Update featured products in `src/routes/+page.svelte`
 - Update sitemap `npm run generate-sitemap`
