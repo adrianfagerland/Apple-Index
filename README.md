@@ -1,1 +1,1 @@
-[[appleindex.com]](https://www.appleindex.com/)
+[appleindex.com](https://www.appleindex.com/)
